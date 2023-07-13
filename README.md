@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+News app in flutter using dart programming language and news api key
 
 ## Getting Started
 
